@@ -4,3 +4,6 @@
 * For the Back-End part, the movies data is fetched from the TMDB API.
 * Connect to APIs: IMDb has APIs that allow you to retrieve movie and TV show data.
 * Users can click on the particular movie to get more information about them
+# Features
+* Made by using React.js and css which provides functionality and responsive behaviour.
+* TMDB API is used as an Back-End part which allows to retrieve movie and TV show data
