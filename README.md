@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+                                    IMDB Clone ![image](https://user-images.githubusercontent.com/110741073/221374947-a4ddd70d-b364-49ec-8caf-f7cd119b9866.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
